@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="JDK">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../JDK FOR INTELLIJ/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../JDK FOR INTELLIJ/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../JDK FOR INTELLIJ/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../JDK FOR INTELLIJ/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

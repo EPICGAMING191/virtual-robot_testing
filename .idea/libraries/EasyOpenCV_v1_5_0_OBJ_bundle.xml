@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EasyOpenCV_v1.5.0_OBJ_bundle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/EasyOpenCV_v1.5.0_OBJ_bundle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
