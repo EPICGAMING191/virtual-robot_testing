@@ -12,10 +12,8 @@
     <orderEntry type="library" exported="" name="EasyOpenCV_v1.5.0_OBJ_bundle" level="project" />
     <orderEntry type="library" exported="" name="guava-20.0" level="project" />
     <orderEntry type="library" exported="" name="javassist-3.21.0-GA" level="project" />
-    <orderEntry type="library" exported="" name="pedro_modified" level="project" />
     <orderEntry type="library" exported="" name="reflections-0.9.11" level="project" />
-    <orderEntry type="library" exported="" name="lib" level="project" />
-    <orderEntry type="library" exported="" name="lib1" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="dyn4j-4.1.4" level="project" />
     <orderEntry type="library" exported="" name="JDK" level="project" />
     <orderEntry type="module-library" exported="">
@@ -30,5 +28,58 @@
     </orderEntry>
     <orderEntry type="library" name="lib2" level="project" />
     <orderEntry type="library" name="lib3" level="project" />
+    <orderEntry type="library" name="core-2.0.3" level="project" />
+    <orderEntry type="library" name="utils-1.0.3-sources" level="project" />
+    <orderEntry type="library" name="classes2" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/BYLAZAR/telemetry-1.0.3/classes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/BYLAZAR/panels-1.0.3/classes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Pedro">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/BYLAZAR/Pedro.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/BYLAZAR/Pedro.jar!/core/src/main/java" />
+          <root url="jar://$USER_HOME$/Documents/BYLAZAR/Pedro.jar!/ftc/src/main/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="java" level="project" />
+    <orderEntry type="library" name="java1" level="project" />
+    <orderEntry type="library" name="pedro_modified" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library name="sources">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/BYLAZAR/ftc-2.0.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="corejar">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/BYLAZAR/core.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

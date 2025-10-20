@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="pedro_modified">
+  <library name="telemetry">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Documents/pedro_modified.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/BYLAZAR/telemetry-1.0.3/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

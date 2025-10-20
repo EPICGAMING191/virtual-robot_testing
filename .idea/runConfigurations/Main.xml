@@ -2,7 +2,7 @@
   <configuration default="false" name="Main" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="virtual_robot.controller.VirtualRobotApplication" />
     <module name="Controller" />
-    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\26Burrj\AppData\Local\Microsoft\WindowsApps\JFROSTY\SDK 21\javafx-sdk-21.0.8\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+    <option name="VM_PARAMETERS" value="java --class-path &quot;PedroPathing.jar;yourProjectClassesFolder&quot; --module-path &quot;C:\Users\26Burrj\AppData\Local\Microsoft\WindowsApps\JFROSTY\SDK 21\javafx-sdk-21.0.8\lib&quot; --add-modules javafx.controls,javafx.fxml" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
